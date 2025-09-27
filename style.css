@@ -1,0 +1,21 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p, ul {
+  font-family: verdana;
+  font-size: 24px;
+}
+
+.Hobby {
+  display: flex;
+  justify-content: center;
+  gap: 70px;
+  padding: 40px;
+  flex-wrap: wrap;
+}
